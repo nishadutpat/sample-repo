@@ -20,3 +20,8 @@ variable "ami" {
     
   
 }
+
+resource "s3_bucket" "sanple" {
+    
+  
+}
