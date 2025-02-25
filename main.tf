@@ -17,6 +17,6 @@ variable "instance" {
 
 variable "ami" {
     description = "this is an ami value "
-    type = "string"
+    
   
 }
